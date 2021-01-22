@@ -1,4 +1,11 @@
-### Hi there 👋
+## Hi there 👋
+### Software Engineer @Okoone, Cambodia
+
+- Front-End at Work (Angular)
+- FullStack at Home
+- DevOps/Solution Architect at School
+(By school, I mean self-teaching 😄)
+
 
 <!--
 **HokhyTann/HokhyTann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
