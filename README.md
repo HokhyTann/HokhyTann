@@ -1,10 +1,8 @@
 ## Hi there 👋
 ### Software Engineer @Okoone, Cambodia
 
-- Front-End at Work (Angular)
-- FullStack at Home
-- DevOps/Solution Architect at School
-(By school, I mean self-teaching 😄)
+- 💬 Ask me about anything
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/hokhytann/)
 
 
 <!--
