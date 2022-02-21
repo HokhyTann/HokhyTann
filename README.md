@@ -1,5 +1,5 @@
 ## Hi there 👋
-### Software Engineer @Okoone, Cambodia
+### Software Engineer @Vtech, Cambodia
 
 - 💬 Ask me about anything
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/hokhytann/)
