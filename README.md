@@ -1,5 +1,6 @@
 ## Hi there 👋
-### Software Engineer @Vtech, Cambodia
+### Full Stack Software Engineer, Cambodia
+### Javascript/Typescript
 
 - 💬 Ask me about anything
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/hokhytann/)
